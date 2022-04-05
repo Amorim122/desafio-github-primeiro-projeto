@@ -1,0 +1,12 @@
+Introdução ao Git e ao Github
+
+GitHub é uma plataforma para gerenciar seu código e criar um ambiente de colaboração entre devs, algo muito parecido com uma rede social de desenvolvedores, e muito bom para trabalho em equipe utilizando o Git como sistema de controle. 
+A função do Git é voltado mais para ter um controle de edições e alterações que são feitos dos arquivos, criptogravando cada alteração.
+
+Termos comuns no Github.
+Branch é uma ramificação da linha cronológica do projeto em questão.
+Commit é a atualização do projeto,com avanço das etapas do projeto contando com inserção de novos códigos. 
+Merge é a junção das branch’s, seja com a linha cronológica principal ou até mesmo com outras branch’s.
+Remote é a transferência do projeto que está salvo na maquina para o GItHub.
+Push é a transferência do Commit ( ou seja atualização ) que foi feito na máquina para o GitHub.
+Pull é o movimento contrário do Push, é a transferência do Commit que está no repositório do Git Hub para arquivar ou modificar na máquina.
